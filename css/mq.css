@@ -124,6 +124,10 @@
     vertical-align: middle;
     font-size: 50px;
   }
+  
+  #toast p {
+    font-size: 13px;
+  }
 }
 @media (max-width: 576px) {
 }
